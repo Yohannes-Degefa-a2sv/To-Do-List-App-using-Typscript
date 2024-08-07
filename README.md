@@ -19,8 +19,8 @@ Welcome to the To-Do List application, crafted using Typescript. This app is des
 
 1. Enter your task description in the input field.
 2. Click the "Add" button to add the task to your list.
+![ok](https://github.com/user-attachments/assets/af48683b-3373-471a-ae86-e6bb2a27e788)
 
-![Adding Tasks](https://github.com/user-attachments/assets/42aea8e0-a516-4ae3-b43e-b60f52bc9b78)
 
 ### Editing Tasks
 
